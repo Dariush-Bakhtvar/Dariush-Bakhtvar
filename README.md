@@ -38,9 +38,8 @@
 </p>
 <br>
 
-## :octocat: Credit
-[<img width="64" height="64" src="https://img.icons8.com/color/64/github--v1.png" alt="github--v1"/>](https://github.com/Dariush-Bakhtvar)
-this Github Account Created By : <B>Dariush Bakhtvar</B> in  <b>2019</b>
+## Credit
+<a href="https://github.com/Dariush-Bakhtvar" style="text-decoration:none!important">:octocat: <B>Dariush Bakhtvar</B> in  <b>2019</b> </a>
 <!---
 Dariush-Bakhtvar/Dariush-Bakhtvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
